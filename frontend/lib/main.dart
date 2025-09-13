@@ -39,7 +39,8 @@ class _AppShellState extends State<AppShell> {
 
   @override
   Widget build(BuildContext context) {
-    return CupertinoTabScaffold(tabBar: CupertinoTabBar(items: const [BottomNavigationBarItem(icon:Icon(CupertinoIcons.home), label: 'Home'),
+    return CupertinoTabScaffold(tabBar: CupertinoTabBar(items: const
+    [BottomNavigationBarItem(icon:Icon(CupertinoIcons.home), label: 'Home'),
     BottomNavigationBarItem(icon: Icon(CupertinoIcons.cart), label: 'Cart'),
     BottomNavigationBarItem(icon: Icon(CupertinoIcons.person), label: 'Profile'),
     ]), tabBuilder: (context, index){

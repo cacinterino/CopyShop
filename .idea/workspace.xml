@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d3dc044-a403-461e-ad63-d13643ad6b58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/lib/screens/cart_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/screens/home_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/screens/profile_screen.dart" afterDir="false" />
+    <list default="true" id="3d3dc044-a403-461e-ad63-d13643ad6b58" name="Changes" comment="Created CopyShop Application&#10;- Added CartScreen&#10;- Added HomeScreen&#10;- Added ProfileScreen&#10;- Added product.dart">
+      <change afterPath="$PROJECT_DIR$/frontend/lib/widgets/category_tabs.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/lib/widgets/product_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/lib/models/product.dart" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/lib/models/product.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/lib/screens/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/lib/screens/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +26,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cacinterino/CopyShop.git&quot;,
+    &quot;accountId&quot;: &quot;e3f5cbe2-13ff-41a0-a1d1-8c2231ce195d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -67,6 +82,39 @@
       <option name="presentableId" value="Default" />
       <updated>1757735304053</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created CopyShop Application&#10;- Added CartScreen&#10;- Added HomeScreen&#10;- Added ProfileScreen&#10;- Added product.dart">
+      <option name="closed" value="true" />
+      <created>1757747049714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757747049714</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created CopyShop Application&#10;- Added CartScreen&#10;- Added HomeScreen&#10;- Added ProfileScreen&#10;- Added product.dart">
+      <option name="closed" value="true" />
+      <created>1757747175351</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757747175351</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Created CopyShop Application&#10;- Added CartScreen&#10;- Added HomeScreen&#10;- Added ProfileScreen&#10;- Added product.dart" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created CopyShop Application&#10;- Added CartScreen&#10;- Added HomeScreen&#10;- Added ProfileScreen&#10;- Added product.dart" />
   </component>
 </project>
